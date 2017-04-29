@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://www.nisincorp.com/download/happybonus12.jpg</string>
+     <string>http://60.191.157.219:8888/yinlundangchat/57.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://www.nisincorp.com/download/happybonus012.jpg</string>
+     <string>http://60.191.157.219:8888/yinlundangchat/57.png</string>
     </dict>
    </array>
    <key>metadata</key>
@@ -41,7 +41,7 @@
     <string>com.yinlun.dangchat</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.0.1</string>
+    <string>1.0.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
